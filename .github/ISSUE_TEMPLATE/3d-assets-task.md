@@ -1,7 +1,7 @@
 ---
-name: 3D Asset Creation Task
+name: 3D Assets Task
 about: Use this for anything to do with 3D model creation
-title: "[3D ASSET] - Creation of 3D assets before optimization"
+title: "[3D ASSET] - Creation, editing, rigging, and animation of 3D assets"
 labels: Create 3D Assets
 assignees: KaylynFritz, AyeshaBoomgaard
 

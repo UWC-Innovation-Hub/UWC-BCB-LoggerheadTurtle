@@ -5,7 +5,7 @@ title: "[BUG] - Issue description"
 labels: bug
 assignees: KaylynFritz, AyeshaBoomgaard
 
----
+--
 
 **Bug Description**
 Describe the bug in detail - what's happening, what should be happening instead
