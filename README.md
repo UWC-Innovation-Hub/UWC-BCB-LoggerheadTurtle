@@ -7,7 +7,7 @@ The aim is to raise awareness about plastic pollution and its impact on marine l
 Simplify learning of marine life.
 Provide a 3D, step-by-step guide through JigSpace.
 
-**🌐 Website: **
+**🌐 Website:**
 To be created and shared with MSc student and respective Supervisor
 
 **📄 License:**
